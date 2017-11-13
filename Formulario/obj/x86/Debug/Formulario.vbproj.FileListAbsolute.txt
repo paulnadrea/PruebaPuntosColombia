@@ -1,0 +1,13 @@
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\bin\Debug\Formulario.exe
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\bin\Debug\Formulario.xml
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\bin\Debug\Datos.dll
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\bin\Debug\Datos.pdb
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\bin\Debug\Datos.xml
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.vbprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.Form1.resources
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.Resources.resources
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.exe
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.xml
+C:\Users\Administrador\Desktop\Documents\Visual Studio 2010\Projects\PruebaCodigo\Formulario\obj\x86\Debug\Formulario.pdb
